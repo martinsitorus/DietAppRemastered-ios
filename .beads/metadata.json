@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "DietAppRemastered",
+  "project_id": "66b940fe-a7cb-4679-a1b5-79b4e6026ef7"
+}
