@@ -1,0 +1,23 @@
+{
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/ViewModels/DashboardViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.dia",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.swiftdeps"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/ViewModels/DayTrackingViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.dia",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.swiftdeps"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/ViewModels/FoodCatalogViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.dia",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.swiftdeps"
+  }
+}

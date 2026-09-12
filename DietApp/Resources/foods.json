@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "White Rice",
+    "calories": 204,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Fried Rice",
+    "calories": 333,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Chicken Breast",
+    "calories": 165,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Fried Chicken",
+    "calories": 320,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Beef Rendang",
+    "calories": 468,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Grilled Fish",
+    "calories": 206,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Fried Fish",
+    "calories": 290,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Tempeh",
+    "calories": 193,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Tofu",
+    "calories": 76,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Fried Tofu",
+    "calories": 150,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Egg Omelette",
+    "calories": 154,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Boiled Egg",
+    "calories": 78,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Fried Egg",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Oatmeal",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Orange Juice",
+    "calories": 110,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Apple",
+    "calories": 95,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Banana",
+    "calories": 105,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Orange",
+    "calories": 62,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Mango",
+    "calories": 99,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Papaya",
+    "calories": 59,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Watermelon",
+    "calories": 46,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Avocado",
+    "calories": 160,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Spinach",
+    "calories": 23,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Broccoli",
+    "calories": 55,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Carrot",
+    "calories": 25,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Potato",
+    "calories": 161,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Sweet Potato",
+    "calories": 112,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Corn",
+    "calories": 132,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Noodles",
+    "calories": 221,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Fried Noodles",
+    "calories": 380,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Meatball Soup",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Chicken Soup",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Soto Ayam",
+    "calories": 220,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Gado-Gado",
+    "calories": 350,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Nasi Goreng",
+    "calories": 333,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Mie Goreng",
+    "calories": 380,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Satay Chicken",
+    "calories": 200,
+    "portionSize": 5,
+    "portionUnit": "sticks"
+  },
+  {
+    "name": "Satay Beef",
+    "calories": 250,
+    "portionSize": 5,
+    "portionUnit": "sticks"
+  },
+  {
+    "name": "Spring Roll",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Fried Spring Roll",
+    "calories": 200,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Dumpling",
+    "calories": 80,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Siomay",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Batagor",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Pempek",
+    "calories": 220,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Lontong",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Ketupat",
+    "calories": 100,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Rice Cake",
+    "calories": 130,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Bread",
+    "calories": 79,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "calories": 69,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Croissant",
+    "calories": 231,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Donut",
+    "calories": 195,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Cake",
+    "calories": 250,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Chocolate Cake",
+    "calories": 320,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Ice Cream",
+    "calories": 207,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Yogurt",
+    "calories": 100,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Milk",
+    "calories": 103,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Soy Milk",
+    "calories": 80,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Coffee with Sugar",
+    "calories": 50,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Black Coffee",
+    "calories": 5,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Tea with Sugar",
+    "calories": 40,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Green Tea",
+    "calories": 2,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Soda",
+    "calories": 140,
+    "portionSize": 1,
+    "portionUnit": "can"
+  },
+  {
+    "name": "Mineral Water",
+    "calories": 0,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Coconut Water",
+    "calories": 46,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Fried Banana",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Banana Fritter",
+    "calories": 190,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Cassava Chips",
+    "calories": 150,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Potato Chips",
+    "calories": 152,
+    "portionSize": 30,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Peanuts",
+    "calories": 161,
+    "portionSize": 30,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Cashews",
+    "calories": 157,
+    "portionSize": 30,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Almonds",
+    "calories": 164,
+    "portionSize": 30,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Chocolate Bar",
+    "calories": 210,
+    "portionSize": 1,
+    "portionUnit": "bar"
+  },
+  {
+    "name": "Candy",
+    "calories": 100,
+    "portionSize": 5,
+    "portionUnit": "pieces"
+  },
+  {
+    "name": "Honey",
+    "calories": 64,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Sugar",
+    "calories": 49,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Butter",
+    "calories": 102,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Margarine",
+    "calories": 90,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Cooking Oil",
+    "calories": 119,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Cheese",
+    "calories": 113,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Pizza",
+    "calories": 285,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Burger",
+    "calories": 354,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "French Fries",
+    "calories": 365,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Hot Dog",
+    "calories": 290,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Sandwich",
+    "calories": 250,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Spaghetti",
+    "calories": 220,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Lasagna",
+    "calories": 350,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Salad",
+    "calories": 50,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Caesar Salad",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Grilled Chicken",
+    "calories": 220,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Chicken Curry",
+    "calories": 280,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Beef Steak",
+    "calories": 271,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Beef Soup",
+    "calories": 200,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Fish Curry",
+    "calories": 240,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Shrimp",
+    "calories": 99,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Fried Shrimp",
+    "calories": 180,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Squid",
+    "calories": 92,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Crab",
+    "calories": 97,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Salmon",
+    "calories": 208,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Tuna",
+    "calories": 132,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Sardine",
+    "calories": 208,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Anchovy",
+    "calories": 131,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Egg Fried Rice",
+    "calories": 350,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Chicken Porridge",
+    "calories": 200,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Beef Porridge",
+    "calories": 230,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Opor Ayam",
+    "calories": 320,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Sayur Lodeh",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Sayur Asem",
+    "calories": 80,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Capcay",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Kangkung",
+    "calories": 60,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Bayam",
+    "calories": 40,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Sambal",
+    "calories": 30,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Ketchup",
+    "calories": 19,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Mayonnaise",
+    "calories": 94,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Soy Sauce",
+    "calories": 11,
+    "portionSize": 1,
+    "portionUnit": "tablespoon"
+  },
+  {
+    "name": "Peanut Sauce",
+    "calories": 150,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Coconut Milk",
+    "calories": 150,
+    "portionSize": 100,
+    "portionUnit": "ml"
+  },
+  {
+    "name": "Rice Noodle",
+    "calories": 190,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Vermicelli",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Tofu Soup",
+    "calories": 90,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Tempeh Chips",
+    "calories": 170,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Kerupuk",
+    "calories": 120,
+    "portionSize": 20,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Emping",
+    "calories": 140,
+    "portionSize": 30,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Martabak",
+    "calories": 300,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Martabak Manis",
+    "calories": 350,
+    "portionSize": 1,
+    "portionUnit": "slice"
+  },
+  {
+    "name": "Pancake",
+    "calories": 175,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Waffle",
+    "calories": 220,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Brownie",
+    "calories": 250,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Cookie",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Muffin",
+    "calories": 200,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Bun",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Rice Flour Porridge",
+    "calories": 130,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Corn Soup",
+    "calories": 140,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Pumpkin Soup",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Tomato",
+    "calories": 22,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Cucumber",
+    "calories": 16,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Lettuce",
+    "calories": 15,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Cabbage",
+    "calories": 25,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Eggplant",
+    "calories": 35,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Mushroom",
+    "calories": 22,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Corn on Cob",
+    "calories": 96,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Boiled Corn",
+    "calories": 110,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Grilled Corn",
+    "calories": 130,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Pineapple",
+    "calories": 82,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Grapes",
+    "calories": 104,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Strawberry",
+    "calories": 49,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Blueberry",
+    "calories": 84,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Kiwi",
+    "calories": 42,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Pear",
+    "calories": 101,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Peach",
+    "calories": 59,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Plum",
+    "calories": 30,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Cherries",
+    "calories": 77,
+    "portionSize": 1,
+    "portionUnit": "cup"
+  },
+  {
+    "name": "Lemon",
+    "calories": 17,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Lime",
+    "calories": 20,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Coconut",
+    "calories": 283,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Durian",
+    "calories": 147,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Rambutan",
+    "calories": 68,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Mangosteen",
+    "calories": 73,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Salak",
+    "calories": 77,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Jackfruit",
+    "calories": 95,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Starfruit",
+    "calories": 31,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Guava",
+    "calories": 68,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Passion Fruit",
+    "calories": 17,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Dragon Fruit",
+    "calories": 60,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Soursop",
+    "calories": 66,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Breadfruit",
+    "calories": 103,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Taro",
+    "calories": 112,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Cassava",
+    "calories": 160,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Yam",
+    "calories": 118,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Red Bean Soup",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Mung Bean Porridge",
+    "calories": 170,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Black Rice Porridge",
+    "calories": 200,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Es Cendol",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "glass"
+  },
+  {
+    "name": "Es Campur",
+    "calories": 220,
+    "portionSize": 1,
+    "portionUnit": "glass"
+  },
+  {
+    "name": "Es Teler",
+    "calories": 250,
+    "portionSize": 1,
+    "portionUnit": "glass"
+  },
+  {
+    "name": "Fruit Salad",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Rujak",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Asinan",
+    "calories": 100,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Karedok",
+    "calories": 140,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Lotek",
+    "calories": 200,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Ketoprak",
+    "calories": 280,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Tahu Gejrot",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Cilok",
+    "calories": 130,
+    "portionSize": 5,
+    "portionUnit": "pieces"
+  },
+  {
+    "name": "Cimol",
+    "calories": 160,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Seblak",
+    "calories": 250,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Bakso",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Mie Ayam",
+    "calories": 300,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Mie Bakso",
+    "calories": 320,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Kwitiaw",
+    "calories": 290,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Bihun Goreng",
+    "calories": 270,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Nasi Uduk",
+    "calories": 380,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Nasi Kuning",
+    "calories": 360,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Nasi Liwet",
+    "calories": 340,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Nasi Padang",
+    "calories": 600,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Ayam Goreng",
+    "calories": 320,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Ayam Bakar",
+    "calories": 250,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Ikan Bakar",
+    "calories": 220,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Ikan Goreng",
+    "calories": 290,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Udang Goreng",
+    "calories": 240,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Cumi Goreng",
+    "calories": 260,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Sate Kambing",
+    "calories": 280,
+    "portionSize": 5,
+    "portionUnit": "sticks"
+  },
+  {
+    "name": "Gulai Kambing",
+    "calories": 350,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Rawon",
+    "calories": 280,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Coto Makassar",
+    "calories": 300,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Konro",
+    "calories": 320,
+    "portionSize": 1,
+    "portionUnit": "plate"
+  },
+  {
+    "name": "Pallubasa",
+    "calories": 290,
+    "portionSize": 1,
+    "portionUnit": "bowl"
+  },
+  {
+    "name": "Ayam Pop",
+    "calories": 260,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Dendeng",
+    "calories": 300,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Abon",
+    "calories": 250,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Serundeng",
+    "calories": 200,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Kering Kentang",
+    "calories": 180,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Perkedel",
+    "calories": 140,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Bakwan",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Tahu Isi",
+    "calories": 110,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Tempe Goreng",
+    "calories": 170,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Keripik Tempe",
+    "calories": 190,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Rempeyek",
+    "calories": 210,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Kripik Singkong",
+    "calories": 160,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Kripik Pisang",
+    "calories": 170,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Dodol",
+    "calories": 200,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Wajik",
+    "calories": 220,
+    "portionSize": 50,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Lemper",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Arem-Arem",
+    "calories": 160,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Pastel",
+    "calories": 170,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Risoles",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Kroket",
+    "calories": 160,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Lumpia",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Sosis",
+    "calories": 180,
+    "portionSize": 1,
+    "portionUnit": "piece"
+  },
+  {
+    "name": "Nugget",
+    "calories": 200,
+    "portionSize": 100,
+    "portionUnit": "gram"
+  },
+  {
+    "name": "Running Snack Bar",
+    "calories": 120,
+    "portionSize": 1,
+    "portionUnit": "bar"
+  },
+  {
+    "name": "Protein Shake",
+    "calories": 150,
+    "portionSize": 1,
+    "portionUnit": "glass"
+  }
+]

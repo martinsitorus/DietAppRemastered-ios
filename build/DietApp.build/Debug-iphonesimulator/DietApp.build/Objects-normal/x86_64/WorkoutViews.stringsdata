@@ -1,0 +1,104 @@
+{
+  "source": "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Views/WorkoutViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Workout Catalog",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete this workout?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld kcal per %.1f %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Workout",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calories burned (kcal)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portion size",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unit (e.g. minutes, sets)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 67
+        }
+      }
+    ]
+  },
+  "version": 1
+}

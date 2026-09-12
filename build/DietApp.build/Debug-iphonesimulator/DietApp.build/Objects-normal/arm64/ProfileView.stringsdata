@@ -1,0 +1,96 @@
+{
+  "source": "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Views/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Update Profile",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Profile",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lifestyle",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Profile",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weight (kg)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Height (cm)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Age",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gender",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activity level",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Target",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 36
+        }
+      }
+    ]
+  },
+  "version": 1
+}

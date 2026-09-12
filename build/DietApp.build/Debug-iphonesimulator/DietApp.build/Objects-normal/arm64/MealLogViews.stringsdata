@@ -1,0 +1,136 @@
+{
+  "source": "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Views/MealLogViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Activity",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete this entry?",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total: %lld kcal",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "No entries",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld kcal",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick food",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portion",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save entry",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Food",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select…",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ (%lld kcal)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portion amount",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 96
+        }
+      }
+    ]
+  },
+  "version": 1
+}

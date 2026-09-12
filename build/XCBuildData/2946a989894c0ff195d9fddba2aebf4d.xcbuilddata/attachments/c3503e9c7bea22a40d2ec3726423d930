@@ -1,0 +1,189 @@
+{
+  "" : {
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietApp-primary.dia",
+    "emit-module-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietApp-primary-emit-module.dia",
+    "pch" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietApp-primary.swiftdeps"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/CalorieCalculator.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/ContentView.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/DashboardView.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/DashboardViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DashboardViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/DayTrackingViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DayTrackingViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/DietAppApp.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/FoodCatalogViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodCatalogViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/FoodViews.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/FoodViews~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/MealLogViews.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLogViews~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/MealLoggingViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/MealLoggingViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Models.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/ProfileView.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/UserProfileViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/UserProfileViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/WorkoutCatalogViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutCatalogViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/WorkoutDiaryViews.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutDiaryViews~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/WorkoutLoggingViewModel.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutLoggingViewModel~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/WorkoutViews.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/WorkoutViews~partial.swiftmodule"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

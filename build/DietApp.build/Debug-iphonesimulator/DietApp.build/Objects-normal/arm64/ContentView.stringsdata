@@ -1,0 +1,32 @@
+{
+  "source": "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dashboard",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Food Log",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Workout Log",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 26
+        }
+      }
+    ]
+  },
+  "version": 1
+}

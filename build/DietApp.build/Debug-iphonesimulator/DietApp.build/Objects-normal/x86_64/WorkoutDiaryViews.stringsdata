@@ -1,0 +1,112 @@
+{
+  "source": "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Views/WorkoutDiaryViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Workout Diary",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete this entry?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total burned: %lld kcal",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "No entries",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld kcal",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log Workout",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Workout",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portion amount",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save entry",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select…",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ (%lld kcal)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 68
+        }
+      }
+    ]
+  },
+  "version": 1
+}

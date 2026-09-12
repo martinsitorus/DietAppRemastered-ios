@@ -1,0 +1,23 @@
+{
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/DietAppApp.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.dia",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/DietAppApp.swiftdeps"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Models/CalorieCalculator.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.dia",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/CalorieCalculator.swiftdeps"
+  },
+  "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/DietApp/Models/Models.swift" : {
+    "const-values" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.dia",
+    "object" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/martinsitorus/Desktop/Repository/iOS/DietAppRemastered/build/DietApp.build/Debug-iphonesimulator/DietApp.build/Objects-normal/arm64/Models.swiftdeps"
+  }
+}

@@ -1,0 +1,337 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0AF50D9F97471C45B05478D4 /* ViewModels/DayTrackingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EBEFB1749D8C96E8B66BC96 /* ViewModels/DayTrackingViewModel.swift */; };
+		0C229DAFA7B3A54E62CBD452 /* ViewModels/MealLoggingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B0959616725B4996429614 /* ViewModels/MealLoggingViewModel.swift */; };
+		18B342D3B1A9B03BBFBDC126 /* Views/MealLogViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370D69B2692D77D3CFF6F491 /* Views/MealLogViews.swift */; };
+		26AD3D8D66011C9B5D29E356 /* Views/WorkoutDiaryViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6886220B70E42E56E917E9 /* Views/WorkoutDiaryViews.swift */; };
+		2D4F7281A7E779E059E0DD90 /* ViewModels/UserProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FC125B9DCB01CBC410A2E9 /* ViewModels/UserProfileViewModel.swift */; };
+		33C9B872BF1A8BD8BFBD8C5D /* ViewModels/WorkoutCatalogViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68773325B58A07830C9BA008 /* ViewModels/WorkoutCatalogViewModel.swift */; };
+		3E649516BEC138BC86E2BCC8 /* ViewModels/WorkoutLoggingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123536A0E745F038FC059DA6 /* ViewModels/WorkoutLoggingViewModel.swift */; };
+		4D38D9813B613F81B7F4100A /* Models/CalorieCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14472F59F87C9801271B2AA3 /* Models/CalorieCalculator.swift */; };
+		78CC75E201BD942DFB5A98C0 /* DietAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F40F93112C37AA3D54F9ED /* DietAppApp.swift */; };
+		7CFA65392FCEAD2598338BD9 /* Views/FoodViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF50632B7C2BBAE06FAD422B /* Views/FoodViews.swift */; };
+		9027449CFE31F45BF27266A0 /* ViewModels/DashboardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09981AC96CC7B8F51285A9C /* ViewModels/DashboardViewModel.swift */; };
+		93091EB8CD076ED49C309255 /* Views/ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B133B9F7DB155F1BA909F2CB /* Views/ContentView.swift */; };
+		9F8F33EECE9BB575CB20EF76 /* Views/WorkoutViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = D203FF1E13DA04F3FFD55099 /* Views/WorkoutViews.swift */; };
+		9FEDE2E53C8F79559E6DDBE5 /* Views/DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8680E7C860648B750894EC /* Views/DashboardView.swift */; };
+		C384A3468A687CEA9AD45D29 /* Views/ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD32D5FDF857D64B4008D68 /* Views/ProfileView.swift */; };
+		C56419B0C02EE04AE05F50FA /* Resources/Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6BEF2F3F92C1138BBA2C09A /* Resources/Assets.xcassets */; };
+		DC4D4D577C08DFA8AEB2521A /* ViewModels/FoodCatalogViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99F38C44BA11811F50C7EDC /* ViewModels/FoodCatalogViewModel.swift */; };
+		F18E9890906F8D475D7BF33B /* Resources/foods.json in Resources */ = {isa = PBXBuildFile; fileRef = D5032740C6E01270EA227D92 /* Resources/foods.json */; };
+		FAE2D046A9BD0803F82185D6 /* Models/Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7472FEA94F0730ECBC39F892 /* Models/Models.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		09FC125B9DCB01CBC410A2E9 /* ViewModels/UserProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/UserProfileViewModel.swift; sourceTree = "<group>"; };
+		123536A0E745F038FC059DA6 /* ViewModels/WorkoutLoggingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/WorkoutLoggingViewModel.swift; sourceTree = "<group>"; };
+		14472F59F87C9801271B2AA3 /* Models/CalorieCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/CalorieCalculator.swift; sourceTree = "<group>"; };
+		14F40F93112C37AA3D54F9ED /* DietAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DietAppApp.swift; sourceTree = "<group>"; };
+		1F8680E7C860648B750894EC /* Views/DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/DashboardView.swift; sourceTree = "<group>"; };
+		370D69B2692D77D3CFF6F491 /* Views/MealLogViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/MealLogViews.swift; sourceTree = "<group>"; };
+		47B0959616725B4996429614 /* ViewModels/MealLoggingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/MealLoggingViewModel.swift; sourceTree = "<group>"; };
+		5E6886220B70E42E56E917E9 /* Views/WorkoutDiaryViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/WorkoutDiaryViews.swift; sourceTree = "<group>"; };
+		68773325B58A07830C9BA008 /* ViewModels/WorkoutCatalogViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/WorkoutCatalogViewModel.swift; sourceTree = "<group>"; };
+		7472FEA94F0730ECBC39F892 /* Models/Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/Models.swift; sourceTree = "<group>"; };
+		8CD32D5FDF857D64B4008D68 /* Views/ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/ProfileView.swift; sourceTree = "<group>"; };
+		8EBEFB1749D8C96E8B66BC96 /* ViewModels/DayTrackingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/DayTrackingViewModel.swift; sourceTree = "<group>"; };
+		B133B9F7DB155F1BA909F2CB /* Views/ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/ContentView.swift; sourceTree = "<group>"; };
+		B6BEF2F3F92C1138BBA2C09A /* Resources/Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Resources/Assets.xcassets; sourceTree = "<group>"; };
+		C99F38C44BA11811F50C7EDC /* ViewModels/FoodCatalogViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/FoodCatalogViewModel.swift; sourceTree = "<group>"; };
+		D203FF1E13DA04F3FFD55099 /* Views/WorkoutViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/WorkoutViews.swift; sourceTree = "<group>"; };
+		D5032740C6E01270EA227D92 /* Resources/foods.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Resources/foods.json; sourceTree = "<group>"; };
+		E0A27F22F95557CED6A0CE89 /* DietApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DietApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F09981AC96CC7B8F51285A9C /* ViewModels/DashboardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/DashboardViewModel.swift; sourceTree = "<group>"; };
+		FF50632B7C2BBAE06FAD422B /* Views/FoodViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/FoodViews.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		424153ED3CD079DB4DB459AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2F3A6B1E78F896718625FF06 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E0A27F22F95557CED6A0CE89 /* DietApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		38DF21AEF4612506D6BE5CBE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				14F40F93112C37AA3D54F9ED /* DietAppApp.swift */,
+				B133B9F7DB155F1BA909F2CB /* Views/ContentView.swift */,
+				1F8680E7C860648B750894EC /* Views/DashboardView.swift */,
+				FF50632B7C2BBAE06FAD422B /* Views/FoodViews.swift */,
+				370D69B2692D77D3CFF6F491 /* Views/MealLogViews.swift */,
+				8CD32D5FDF857D64B4008D68 /* Views/ProfileView.swift */,
+				5E6886220B70E42E56E917E9 /* Views/WorkoutDiaryViews.swift */,
+				D203FF1E13DA04F3FFD55099 /* Views/WorkoutViews.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		773BE92E333384C2931280E5 /* DietApp */ = {
+			isa = PBXGroup;
+			children = (
+				A1C86A29E589D48EC70B6A32 /* Models */,
+				8C82CBDAB62AC804C92AACD0 /* ViewModels */,
+				38DF21AEF4612506D6BE5CBE /* Views */,
+				887A6F90336FF23D95C3914B /* Resources */,
+			);
+			path = DietApp;
+			sourceTree = "<group>";
+		};
+		887A6F90336FF23D95C3914B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B6BEF2F3F92C1138BBA2C09A /* Resources/Assets.xcassets */,
+				D5032740C6E01270EA227D92 /* Resources/foods.json */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		8C82CBDAB62AC804C92AACD0 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				F09981AC96CC7B8F51285A9C /* ViewModels/DashboardViewModel.swift */,
+				8EBEFB1749D8C96E8B66BC96 /* ViewModels/DayTrackingViewModel.swift */,
+				C99F38C44BA11811F50C7EDC /* ViewModels/FoodCatalogViewModel.swift */,
+				47B0959616725B4996429614 /* ViewModels/MealLoggingViewModel.swift */,
+				09FC125B9DCB01CBC410A2E9 /* ViewModels/UserProfileViewModel.swift */,
+				68773325B58A07830C9BA008 /* ViewModels/WorkoutCatalogViewModel.swift */,
+				123536A0E745F038FC059DA6 /* ViewModels/WorkoutLoggingViewModel.swift */,
+			);
+			name = ViewModels;
+			sourceTree = "<group>";
+		};
+		8D3FC6DB5D0827F168A73277 = {
+			isa = PBXGroup;
+			children = (
+				773BE92E333384C2931280E5 /* DietApp */,
+				2F3A6B1E78F896718625FF06 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A1C86A29E589D48EC70B6A32 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				14472F59F87C9801271B2AA3 /* Models/CalorieCalculator.swift */,
+				7472FEA94F0730ECBC39F892 /* Models/Models.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0C7ACC974991C306C4DB82D8 /* DietApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5505F9AF814A7F0992DE2402 /* Build configuration list for PBXNativeTarget "DietApp" */;
+			buildPhases = (
+				7A70D71C385290AF96BF1031 /* Sources */,
+				424153ED3CD079DB4DB459AF /* Frameworks */,
+				285BB1C1430063331E9F5DD0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DietApp;
+			packageProductDependencies = (
+			);
+			productName = DietApp;
+			productReference = E0A27F22F95557CED6A0CE89 /* DietApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		42A02E0A687D0069118EFA1C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1700;
+			};
+			buildConfigurationList = AD8DC1A475C1871509FE9877 /* Build configuration list for PBXProject "DietApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8D3FC6DB5D0827F168A73277;
+			productRefGroup = 2F3A6B1E78F896718625FF06 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0C7ACC974991C306C4DB82D8 /* DietApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		285BB1C1430063331E9F5DD0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F18E9890906F8D475D7BF33B /* Resources/foods.json in Resources */,
+				C56419B0C02EE04AE05F50FA /* Resources/Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7A70D71C385290AF96BF1031 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78CC75E201BD942DFB5A98C0 /* DietAppApp.swift in Sources */,
+				4D38D9813B613F81B7F4100A /* Models/CalorieCalculator.swift in Sources */,
+				FAE2D046A9BD0803F82185D6 /* Models/Models.swift in Sources */,
+				9027449CFE31F45BF27266A0 /* ViewModels/DashboardViewModel.swift in Sources */,
+				0AF50D9F97471C45B05478D4 /* ViewModels/DayTrackingViewModel.swift in Sources */,
+				DC4D4D577C08DFA8AEB2521A /* ViewModels/FoodCatalogViewModel.swift in Sources */,
+				0C229DAFA7B3A54E62CBD452 /* ViewModels/MealLoggingViewModel.swift in Sources */,
+				2D4F7281A7E779E059E0DD90 /* ViewModels/UserProfileViewModel.swift in Sources */,
+				33C9B872BF1A8BD8BFBD8C5D /* ViewModels/WorkoutCatalogViewModel.swift in Sources */,
+				3E649516BEC138BC86E2BCC8 /* ViewModels/WorkoutLoggingViewModel.swift in Sources */,
+				93091EB8CD076ED49C309255 /* Views/ContentView.swift in Sources */,
+				9FEDE2E53C8F79559E6DDBE5 /* Views/DashboardView.swift in Sources */,
+				7CFA65392FCEAD2598338BD9 /* Views/FoodViews.swift in Sources */,
+				18B342D3B1A9B03BBFBDC126 /* Views/MealLogViews.swift in Sources */,
+				C384A3468A687CEA9AD45D29 /* Views/ProfileView.swift in Sources */,
+				26AD3D8D66011C9B5D29E356 /* Views/WorkoutDiaryViews.swift in Sources */,
+				9F8F33EECE9BB575CB20EF76 /* Views/WorkoutViews.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0A954E1290CE11C8C6995B84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dietapp.remastered;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		0E27CC6211780AA6D35894FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+		3EC50C65D207292A0672C218 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+		47E6820B631CDA25F9FCE64E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dietapp.remastered;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5505F9AF814A7F0992DE2402 /* Build configuration list for PBXNativeTarget "DietApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47E6820B631CDA25F9FCE64E /* Debug */,
+				0A954E1290CE11C8C6995B84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD8DC1A475C1871509FE9877 /* Build configuration list for PBXProject "DietApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EC50C65D207292A0672C218 /* Debug */,
+				0E27CC6211780AA6D35894FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42A02E0A687D0069118EFA1C /* Project object */;
+}
