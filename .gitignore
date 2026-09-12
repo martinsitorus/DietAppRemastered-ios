@@ -2,6 +2,9 @@
 # ios-simulator-mcp output (screenshots, videos)
 tmp/ios-simulator-mcp/
 
+# macOS
+.DS_Store
+
 # Beads / Dolt files (added by bd init)
 .dolt/
 *.db
